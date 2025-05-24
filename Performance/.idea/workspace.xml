@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81d3a5be-61b5-41a6-907b-e386be757e0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/environment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/thresholds.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/pet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/helpers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/load_test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scenarios/Pet/PetRequests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scenarios/Store/StoreRequest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scenarios/User/UserRequest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1747954077393</updated>
       <workItem from="1747954080200" duration="7709000" />
-      <workItem from="1747962812990" duration="12939000" />
+      <workItem from="1747962812990" duration="16328000" />
     </task>
     <servers />
   </component>
